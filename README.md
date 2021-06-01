@@ -1,2 +1,2 @@
 # Moovee
-Movie Night watch list discord bot
+Moovee is a Discord Bot designed to store movies that you want to watch in a database. 
