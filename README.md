@@ -12,7 +12,6 @@ Moovee is a discord bot that allows users to store and manipulate movies in a da
 
 ---
 ## Project Description
----
 I created Moovee to assist in creating a Movie Night list. I had been managing a discord post as a movie list and had to update the post every time anyone wanted to add or remove a title from the list. 
 
 I figured there should be an easier way...
@@ -23,7 +22,6 @@ The intent of this project was to create a database list of the movies our group
 
 ---
 ## Project Status :yellow_circle:
----
 Project is on hold. Ran into some bugs that need an amount of work. Taking a short break to work on other things and will return later.
 
 ### Task List:
@@ -47,7 +45,6 @@ BUGGED =    :warning:
 
 ---
 ## Technologies
----
 * [Python](https://www.python.org/ "Python") - coding language
 * [Replit](https://replit.com/ "replit") - browser IDE
 * [Discord.py](discord.py "Discord Python API") - Discord python API
@@ -56,17 +53,14 @@ BUGGED =    :warning:
 * [Uptime Robot](https://uptimerobot.com/ "Uptime Robot") - uptime monitoring service
 ---
 ## Bugs :snail:
----
 So many bugs....WIP
 
 ---
 ## Demos
----
 Coming soon...
 
 ---
 ## Sources
----
 I used a few tutorials to get myself started and to help with bugs:
 * Toward Data Science's [Creating a Discord Bot from Scratch and Connecting to MongoDB.](https://towardsdatascience.com/creating-a-discord-bot-from-scratch-and-connecting-to-mongodb-828ad1c7c22e "TDS Discord Bot Tutorial")
 * More coming, just need to find them...
