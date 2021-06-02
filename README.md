@@ -22,9 +22,9 @@ The intent of this project was to create a database list of the movies our group
 (I really just wanted to not have to update that post any longer...)
 
 ---
-## Project Status
+## Project Status :yellow_circle:
 ---
-:yellow_circle: Project is on hold. Ran into some bugs that need an amount of work. Taking a short break to work on other things and will return later.
+Project is on hold. Ran into some bugs that need an amount of work. Taking a short break to work on other things and will return later.
 
 ### Task List:
 :heavy_check_mark: Connect to Discord  
